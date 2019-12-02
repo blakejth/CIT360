@@ -1,0 +1,15 @@
+title Sequence Diagrams - Fruit Shopping list
+
+User-> Application:Open Application
+User<- Application: Retrieve user information
+User-> Application:Username/password authentication
+User<- Application: Authenticated, userSession starts
+
+User-> Application:Request fruit database
+Application-> Database:Request fruit database
+Application<-- Database:fruit data
+User<- Application: User friendly display of fruits
+User->Database: Modify fruit database (add/remove)
+Database->Application:Database change
+Application->User:User friendly display updated
+
