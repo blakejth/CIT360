@@ -1,0 +1,9 @@
+These are the sources I used for assistance along with my group.
+
+https://www.programcreek.com/java-api-examples/?api=org.hibernate.boot.registry.StandardServiceRegistry
+https://discuss.gradle.org/t/the-idea-plugin-breaks-the-new-intellij-13-iml-configuration/2456
+https://magento.stackexchange.com/questions/92818/get-customer-in-product-view
+https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/query/hql/HQL.html
+https://www.javatpoint.com/hibernate-tutorial
+https://en.wikipedia.org/wiki/Hibernate_(framework)
+https://howtodoinjava.com/hibernate-tutorials/
