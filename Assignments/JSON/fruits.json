@@ -1,0 +1,20 @@
+{
+	"fruit_id": 1,
+	"fruit_name": "Apple",
+	"fruit_color": "Red"
+}
+{
+	"fruit_id": 2,
+	"fruit_name": "Pear",
+	"fruit_color": "Green"
+}
+{
+	"fruit_id": 3,
+	"fruit_name": "Watermelon",
+	"fruit_color": "Green"
+}
+{
+	"fruit_id": 4,
+	"fruit_name": "Banana",
+	"fruit_color": "Yellow"
+}
